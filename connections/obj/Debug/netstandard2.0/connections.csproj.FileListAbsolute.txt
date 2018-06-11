@@ -1,0 +1,9 @@
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.csprojResolveAssemblyReference.cache
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.csproj.CoreCompileInputs.cache
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.AssemblyInfoInputs.cache
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.AssemblyInfo.cs
+/Users/Bobby/Projects/connections/connections/bin/Debug/netstandard2.0/connections.deps.json
+/Users/Bobby/Projects/connections/connections/bin/Debug/netstandard2.0/connections.dll
+/Users/Bobby/Projects/connections/connections/bin/Debug/netstandard2.0/connections.pdb
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.dll
+/Users/Bobby/Projects/connections/connections/obj/Debug/netstandard2.0/connections.pdb
